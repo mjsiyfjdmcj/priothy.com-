@@ -1,5 +1,5 @@
 # Priothy - Premium E-Commerce Website
-
+http://priothy.com/
 ## Setup Instructions
 
 ### 1. Install Python Dependencies
