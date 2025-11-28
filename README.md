@@ -22,3 +22,5 @@ Open `index.html` in your browser or visit `https://priothy.com/wp-admin/`
 - Smooth scroll animations
 - Responsive design
 - Flask API integration
+
+gh repo clone mjsiyfjdmcj/priothy.com-
